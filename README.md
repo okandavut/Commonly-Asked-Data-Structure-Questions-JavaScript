@@ -3,7 +3,7 @@ JavaScript Solutions of Commonly Asked Data Structure Questions
 ***
 
 ## Array 
-* Find the second minimum element of an array
+* [Find the second minimum element of an array](https://github.com/okandavut/Commonly-Asked-Data-Structure-Questions-JavaScript/blob/master/array/find-the-second-minimum-element-in-array.js)
 * First non-repeating integers in an array
 * Merge two sorted arrays
 * Rearrange positive and negative values in an array
